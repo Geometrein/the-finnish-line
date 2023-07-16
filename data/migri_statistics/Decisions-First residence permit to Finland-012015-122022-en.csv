@@ -1,0 +1,913 @@
+﻿Year;Month;First residence permit to Finland;Decision;Number
+2015;1;Family;Positive;599
+2015;1;Family;Negative;107
+2015;1;Other;Positive;39
+2015;1;Other;Negative;11
+2015;1;Studies;Positive;106
+2015;1;Studies;Negative;4
+2015;1;Work;Positive;444
+2015;1;Work;Negative;51
+2015;2;Family;Positive;611
+2015;2;Family;Negative;88
+2015;2;Other;Positive;32
+2015;2;Other;Negative;13
+2015;2;Studies;Positive;44
+2015;2;Studies;Negative;18
+2015;2;Work;Positive;693
+2015;2;Work;Negative;79
+2015;3;Family;Positive;721
+2015;3;Family;Negative;175
+2015;3;Other;Positive;28
+2015;3;Other;Negative;29
+2015;3;Studies;Positive;28
+2015;3;Studies;Negative;27
+2015;3;Work;Positive;598
+2015;3;Work;Negative;91
+2015;4;Family;Positive;598
+2015;4;Family;Negative;143
+2015;4;Other;Positive;39
+2015;4;Other;Negative;19
+2015;4;Studies;Positive;46
+2015;4;Studies;Negative;12
+2015;4;Work;Positive;493
+2015;4;Work;Negative;92
+2015;5;Family;Positive;626
+2015;5;Family;Negative;180
+2015;5;Other;Positive;38
+2015;5;Other;Negative;27
+2015;5;Studies;Positive;25
+2015;5;Studies;Negative;23
+2015;5;Work;Positive;421
+2015;5;Work;Negative;70
+2015;6;Family;Positive;745
+2015;6;Family;Negative;192
+2015;6;Other;Positive;39
+2015;6;Other;Negative;11
+2015;6;Studies;Positive;1040
+2015;6;Studies;Negative;11
+2015;6;Work;Positive;459
+2015;6;Work;Negative;52
+2015;7;Family;Positive;676
+2015;7;Family;Negative;150
+2015;7;Other;Positive;30
+2015;7;Other;Negative;17
+2015;7;Studies;Positive;2114
+2015;7;Studies;Negative;61
+2015;7;Work;Positive;471
+2015;7;Work;Negative;43
+2015;8;Family;Positive;705
+2015;8;Family;Negative;76
+2015;8;Other;Positive;44
+2015;8;Other;Negative;7
+2015;8;Studies;Positive;1053
+2015;8;Studies;Negative;86
+2015;8;Work;Positive;404
+2015;8;Work;Negative;73
+2015;9;Family;Positive;778
+2015;9;Family;Negative;280
+2015;9;Other;Positive;43
+2015;9;Other;Negative;27
+2015;9;Studies;Positive;228
+2015;9;Studies;Negative;139
+2015;9;Work;Positive;434
+2015;9;Work;Negative;86
+2015;10;Family;Positive;791
+2015;10;Family;Negative;257
+2015;10;Other;Positive;50
+2015;10;Other;Negative;22
+2015;10;Studies;Positive;126
+2015;10;Studies;Negative;51
+2015;10;Work;Positive;320
+2015;10;Work;Negative;81
+2015;11;Family;Positive;672
+2015;11;Family;Negative;166
+2015;11;Other;Positive;41
+2015;11;Other;Negative;12
+2015;11;Studies;Positive;540
+2015;11;Studies;Negative;22
+2015;11;Work;Positive;356
+2015;11;Work;Negative;99
+2015;12;Family;Positive;517
+2015;12;Family;Negative;145
+2015;12;Other;Positive;32
+2015;12;Other;Negative;10
+2015;12;Studies;Positive;518
+2015;12;Studies;Negative;28
+2015;12;Work;Positive;343
+2015;12;Work;Negative;68
+2016;1;Family;Positive;571
+2016;1;Family;Negative;118
+2016;1;Other;Positive;31
+2016;1;Other;Negative;8
+2016;1;Studies;Positive;64
+2016;1;Studies;Negative;22
+2016;1;Work;Positive;305
+2016;1;Work;Negative;54
+2016;2;Family;Positive;639
+2016;2;Family;Negative;144
+2016;2;Other;Positive;49
+2016;2;Other;Negative;17
+2016;2;Studies;Positive;67
+2016;2;Studies;Negative;9
+2016;2;Work;Positive;456
+2016;2;Work;Negative;101
+2016;3;Family;Positive;605
+2016;3;Family;Negative;98
+2016;3;Other;Positive;39
+2016;3;Other;Negative;16
+2016;3;Studies;Positive;46
+2016;3;Studies;Negative;30
+2016;3;Work;Positive;622
+2016;3;Work;Negative;66
+2016;4;Family;Positive;569
+2016;4;Family;Negative;110
+2016;4;Other;Positive;38
+2016;4;Other;Negative;31
+2016;4;Studies;Positive;79
+2016;4;Studies;Negative;17
+2016;4;Work;Positive;586
+2016;4;Work;Negative;78
+2016;5;Family;Positive;663
+2016;5;Family;Negative;95
+2016;5;Other;Positive;42
+2016;5;Other;Negative;17
+2016;5;Studies;Positive;232
+2016;5;Studies;Negative;7
+2016;5;Work;Positive;457
+2016;5;Work;Negative;105
+2016;6;Family;Positive;712
+2016;6;Family;Negative;116
+2016;6;Other;Positive;70
+2016;6;Other;Negative;13
+2016;6;Studies;Positive;1224
+2016;6;Studies;Negative;76
+2016;6;Work;Positive;464
+2016;6;Work;Negative;93
+2016;7;Family;Positive;732
+2016;7;Family;Negative;111
+2016;7;Other;Positive;96
+2016;7;Other;Negative;15
+2016;7;Studies;Positive;2010
+2016;7;Studies;Negative;88
+2016;7;Work;Positive;453
+2016;7;Work;Negative;64
+2016;8;Family;Positive;727
+2016;8;Family;Negative;110
+2016;8;Other;Positive;81
+2016;8;Other;Negative;2
+2016;8;Studies;Positive;1109
+2016;8;Studies;Negative;140
+2016;8;Work;Positive;512
+2016;8;Work;Negative;107
+2016;9;Family;Positive;802
+2016;9;Family;Negative;122
+2016;9;Other;Positive;68
+2016;9;Other;Negative;7
+2016;9;Studies;Positive;277
+2016;9;Studies;Negative;151
+2016;9;Work;Positive;434
+2016;9;Work;Negative;94
+2016;10;Family;Positive;777
+2016;10;Family;Negative;113
+2016;10;Other;Positive;61
+2016;10;Other;Negative;7
+2016;10;Studies;Positive;130
+2016;10;Studies;Negative;33
+2016;10;Work;Positive;519
+2016;10;Work;Negative;126
+2016;11;Family;Positive;791
+2016;11;Family;Negative;124
+2016;11;Other;Positive;44
+2016;11;Other;Negative;7
+2016;11;Studies;Positive;470
+2016;11;Studies;Negative;34
+2016;11;Work;Positive;519
+2016;11;Work;Negative;216
+2016;12;Family;Positive;583
+2016;12;Family;Negative;114
+2016;12;Other;Positive;57
+2016;12;Other;Negative;3
+2016;12;Studies;Positive;640
+2016;12;Studies;Negative;8
+2016;12;Work;Positive;443
+2016;12;Work;Negative;88
+2017;1;Family;Positive;488
+2017;1;Family;Negative;77
+2017;1;Other;Positive;21
+2017;1;Other;Negative;16
+2017;1;Studies;Positive;320
+2017;1;Studies;Negative;12
+2017;1;Work;Positive;514
+2017;1;Work;Negative;61
+2017;2;Family;Positive;667
+2017;2;Family;Negative;69
+2017;2;Other;Positive;27
+2017;2;Other;Negative;33
+2017;2;Studies;Positive;79
+2017;2;Studies;Negative;35
+2017;2;Work;Positive;542
+2017;2;Work;Negative;88
+2017;3;Family;Positive;817
+2017;3;Family;Negative;129
+2017;3;Other;Positive;19
+2017;3;Other;Negative;30
+2017;3;Studies;Positive;72
+2017;3;Studies;Negative;14
+2017;3;Work;Positive;739
+2017;3;Work;Negative;152
+2017;4;Family;Positive;949
+2017;4;Family;Negative;144
+2017;4;Other;Positive;14
+2017;4;Other;Negative;13
+2017;4;Studies;Positive;195
+2017;4;Studies;Negative;19
+2017;4;Work;Positive;720
+2017;4;Work;Negative;84
+2017;5;Family;Positive;867
+2017;5;Family;Negative;159
+2017;5;Other;Positive;12
+2017;5;Other;Negative;13
+2017;5;Studies;Positive;407
+2017;5;Studies;Negative;21
+2017;5;Work;Positive;632
+2017;5;Work;Negative;140
+2017;6;Family;Positive;795
+2017;6;Family;Negative;213
+2017;6;Other;Positive;25
+2017;6;Other;Negative;16
+2017;6;Studies;Positive;821
+2017;6;Studies;Negative;64
+2017;6;Work;Positive;605
+2017;6;Work;Negative;80
+2017;7;Family;Positive;591
+2017;7;Family;Negative;204
+2017;7;Other;Positive;16
+2017;7;Other;Negative;10
+2017;7;Studies;Positive;1156
+2017;7;Studies;Negative;76
+2017;7;Work;Positive;442
+2017;7;Work;Negative;58
+2017;8;Family;Positive;731
+2017;8;Family;Negative;198
+2017;8;Other;Positive;41
+2017;8;Other;Negative;15
+2017;8;Studies;Positive;780
+2017;8;Studies;Negative;86
+2017;8;Work;Positive;570
+2017;8;Work;Negative;103
+2017;9;Family;Positive;815
+2017;9;Family;Negative;172
+2017;9;Other;Positive;39
+2017;9;Other;Negative;22
+2017;9;Studies;Positive;189
+2017;9;Studies;Negative;89
+2017;9;Work;Positive;479
+2017;9;Work;Negative;65
+2017;10;Family;Positive;871
+2017;10;Family;Negative;209
+2017;10;Other;Positive;19
+2017;10;Other;Negative;11
+2017;10;Studies;Positive;79
+2017;10;Studies;Negative;83
+2017;10;Work;Positive;565
+2017;10;Work;Negative;110
+2017;11;Family;Positive;843
+2017;11;Family;Negative;161
+2017;11;Other;Positive;42
+2017;11;Other;Negative;19
+2017;11;Studies;Positive;628
+2017;11;Studies;Negative;47
+2017;11;Work;Positive;561
+2017;11;Work;Negative;124
+2017;12;Family;Positive;655
+2017;12;Family;Negative;148
+2017;12;Other;Positive;31
+2017;12;Other;Negative;11
+2017;12;Studies;Positive;468
+2017;12;Studies;Negative;27
+2017;12;Work;Positive;382
+2017;12;Work;Negative;75
+2018;1;Family;Positive;846
+2018;1;Family;Negative;179
+2018;1;Other;Positive;25
+2018;1;Other;Negative;13
+2018;1;Studies;Positive;168
+2018;1;Studies;Negative;28
+2018;1;Work;Positive;562
+2018;1;Work;Negative;95
+2018;2;Family;Positive;597
+2018;2;Family;Negative;197
+2018;2;Other;Positive;11
+2018;2;Other;Negative;20
+2018;2;Studies;Positive;93
+2018;2;Studies;Negative;34
+2018;2;Work;Positive;594
+2018;2;Work;Negative;115
+2018;3;Family;Positive;700
+2018;3;Family;Negative;222
+2018;3;Other;Positive;20
+2018;3;Other;Negative;15
+2018;3;Studies;Positive;53
+2018;3;Studies;Negative;61
+2018;3;Work;Positive;727
+2018;3;Work;Negative;129
+2018;4;Family;Positive;702
+2018;4;Family;Negative;235
+2018;4;Other;Positive;19
+2018;4;Other;Negative;9
+2018;4;Studies;Positive;103
+2018;4;Studies;Negative;60
+2018;4;Work;Positive;787
+2018;4;Work;Negative;138
+2018;5;Family;Positive;694
+2018;5;Family;Negative;191
+2018;5;Other;Positive;27
+2018;5;Other;Negative;15
+2018;5;Studies;Positive;155
+2018;5;Studies;Negative;8
+2018;5;Work;Positive;573
+2018;5;Work;Negative;141
+2018;6;Family;Positive;730
+2018;6;Family;Negative;185
+2018;6;Other;Positive;19
+2018;6;Other;Negative;8
+2018;6;Studies;Positive;1171
+2018;6;Studies;Negative;17
+2018;6;Work;Positive;639
+2018;6;Work;Negative;156
+2018;7;Family;Positive;719
+2018;7;Family;Negative;172
+2018;7;Other;Positive;37
+2018;7;Other;Negative;13
+2018;7;Studies;Positive;1329
+2018;7;Studies;Negative;71
+2018;7;Work;Positive;578
+2018;7;Work;Negative;115
+2018;8;Family;Positive;875
+2018;8;Family;Negative;156
+2018;8;Other;Positive;32
+2018;8;Other;Negative;8
+2018;8;Studies;Positive;710
+2018;8;Studies;Negative;49
+2018;8;Work;Positive;602
+2018;8;Work;Negative;87
+2018;9;Family;Positive;798
+2018;9;Family;Negative;150
+2018;9;Other;Positive;9
+2018;9;Other;Negative;2
+2018;9;Studies;Positive;239
+2018;9;Studies;Negative;44
+2018;9;Work;Positive;430
+2018;9;Work;Negative;116
+2018;10;Family;Positive;901
+2018;10;Family;Negative;225
+2018;10;Other;Positive;31
+2018;10;Other;Negative;3
+2018;10;Studies;Positive;120
+2018;10;Studies;Negative;106
+2018;10;Work;Positive;668
+2018;10;Work;Negative;166
+2018;11;Family;Positive;807
+2018;11;Family;Negative;218
+2018;11;Other;Positive;30
+2018;11;Other;Negative;9
+2018;11;Studies;Positive;354
+2018;11;Studies;Negative;67
+2018;11;Work;Positive;806
+2018;11;Work;Negative;257
+2018;12;Family;Positive;640
+2018;12;Family;Negative;166
+2018;12;Other;Positive;10
+2018;12;Other;Negative;9
+2018;12;Studies;Positive;707
+2018;12;Studies;Negative;104
+2018;12;Work;Positive;721
+2018;12;Work;Negative;245
+2019;1;Family;Positive;814
+2019;1;Family;Negative;243
+2019;1;Other;Positive;18
+2019;1;Other;Negative;25
+2019;1;Studies;Positive;166
+2019;1;Studies;Negative;41
+2019;1;Work;Positive;740
+2019;1;Work;Negative;247
+2019;2;Family;Positive;716
+2019;2;Family;Negative;233
+2019;2;Other;Positive;18
+2019;2;Other;Negative;13
+2019;2;Studies;Positive;67
+2019;2;Studies;Negative;37
+2019;2;Work;Positive;706
+2019;2;Work;Negative;303
+2019;3;Family;Positive;804
+2019;3;Family;Negative;292
+2019;3;Other;Positive;95
+2019;3;Other;Negative;19
+2019;3;Studies;Positive;51
+2019;3;Studies;Negative;77
+2019;3;Work;Positive;756
+2019;3;Work;Negative;406
+2019;4;Family;Positive;689
+2019;4;Family;Negative;191
+2019;4;Other;Positive;35
+2019;4;Other;Negative;7
+2019;4;Studies;Positive;40
+2019;4;Studies;Negative;48
+2019;4;Work;Positive;836
+2019;4;Work;Negative;403
+2019;5;Family;Positive;852
+2019;5;Family;Negative;210
+2019;5;Other;Positive;30
+2019;5;Other;Negative;12
+2019;5;Studies;Positive;161
+2019;5;Studies;Negative;40
+2019;5;Work;Positive;780
+2019;5;Work;Negative;333
+2019;6;Family;Positive;753
+2019;6;Family;Negative;215
+2019;6;Other;Positive;34
+2019;6;Other;Negative;17
+2019;6;Studies;Positive;573
+2019;6;Studies;Negative;61
+2019;6;Work;Positive;573
+2019;6;Work;Negative;130
+2019;7;Family;Positive;894
+2019;7;Family;Negative;206
+2019;7;Other;Positive;37
+2019;7;Other;Negative;10
+2019;7;Studies;Positive;1348
+2019;7;Studies;Negative;80
+2019;7;Work;Positive;744
+2019;7;Work;Negative;266
+2019;8;Family;Positive;860
+2019;8;Family;Negative;262
+2019;8;Other;Positive;55
+2019;8;Other;Negative;18
+2019;8;Studies;Positive;1252
+2019;8;Studies;Negative;79
+2019;8;Work;Positive;823
+2019;8;Work;Negative;152
+2019;9;Family;Positive;903
+2019;9;Family;Negative;243
+2019;9;Other;Positive;33
+2019;9;Other;Negative;32
+2019;9;Studies;Positive;356
+2019;9;Studies;Negative;104
+2019;9;Work;Positive;743
+2019;9;Work;Negative;184
+2019;10;Family;Positive;1131
+2019;10;Family;Negative;298
+2019;10;Other;Positive;44
+2019;10;Other;Negative;12
+2019;10;Studies;Positive;186
+2019;10;Studies;Negative;108
+2019;10;Work;Positive;1049
+2019;10;Work;Negative;277
+2019;11;Family;Positive;1117
+2019;11;Family;Negative;231
+2019;11;Other;Positive;36
+2019;11;Other;Negative;14
+2019;11;Studies;Positive;375
+2019;11;Studies;Negative;105
+2019;11;Work;Positive;1044
+2019;11;Work;Negative;190
+2019;12;Family;Positive;718
+2019;12;Family;Negative;136
+2019;12;Other;Positive;19
+2019;12;Other;Negative;7
+2019;12;Studies;Positive;671
+2019;12;Studies;Negative;45
+2019;12;Work;Positive;667
+2019;12;Work;Negative;185
+2020;1;Family;Positive;908
+2020;1;Family;Negative;183
+2020;1;Family;Expired matter;20
+2020;1;Other;Positive;31
+2020;1;Other;Negative;17
+2020;1;Other;Expired matter;6
+2020;1;Studies;Positive;166
+2020;1;Studies;Negative;31
+2020;1;Studies;Expired matter;6
+2020;1;Work;Positive;950
+2020;1;Work;Negative;199
+2020;1;Work;Expired matter;9
+2020;2;Family;Positive;929
+2020;2;Family;Negative;186
+2020;2;Family;Expired matter;14
+2020;2;Other;Positive;56
+2020;2;Other;Negative;14
+2020;2;Other;Expired matter;2
+2020;2;Studies;Positive;57
+2020;2;Studies;Negative;23
+2020;2;Studies;Expired matter;8
+2020;2;Work;Positive;1137
+2020;2;Work;Negative;157
+2020;2;Work;Expired matter;8
+2020;3;Family;Positive;923
+2020;3;Family;Negative;216
+2020;3;Family;Expired matter;26
+2020;3;Other;Positive;25
+2020;3;Other;Negative;19
+2020;3;Other;Expired matter;1
+2020;3;Studies;Positive;63
+2020;3;Studies;Negative;33
+2020;3;Studies;Expired matter;21
+2020;3;Work;Positive;1026
+2020;3;Work;Negative;133
+2020;3;Work;Expired matter;37
+2020;4;Family;Positive;688
+2020;4;Family;Negative;174
+2020;4;Family;Expired matter;20
+2020;4;Other;Positive;7
+2020;4;Other;Negative;9
+2020;4;Other;Expired matter;1
+2020;4;Studies;Positive;118
+2020;4;Studies;Negative;58
+2020;4;Studies;Expired matter;9
+2020;4;Work;Positive;790
+2020;4;Work;Negative;134
+2020;4;Work;Expired matter;34
+2020;5;Family;Positive;677
+2020;5;Family;Negative;192
+2020;5;Family;Expired matter;9
+2020;5;Other;Positive;5
+2020;5;Other;Negative;22
+2020;5;Other;Expired matter;3
+2020;5;Studies;Positive;129
+2020;5;Studies;Negative;72
+2020;5;Studies;Expired matter;4
+2020;5;Work;Positive;727
+2020;5;Work;Negative;247
+2020;5;Work;Expired matter;15
+2020;6;Family;Positive;600
+2020;6;Family;Negative;164
+2020;6;Family;Expired matter;11
+2020;6;Other;Positive;60
+2020;6;Other;Negative;23
+2020;6;Other;Expired matter;3
+2020;6;Studies;Positive;77
+2020;6;Studies;Negative;75
+2020;6;Studies;Expired matter;10
+2020;6;Work;Positive;505
+2020;6;Work;Negative;249
+2020;6;Work;Expired matter;14
+2020;7;Family;Positive;613
+2020;7;Family;Negative;71
+2020;7;Family;Expired matter;13
+2020;7;Other;Positive;38
+2020;7;Other;Negative;25
+2020;7;Other;Expired matter;13
+2020;7;Studies;Positive;821
+2020;7;Studies;Negative;36
+2020;7;Studies;Expired matter;5
+2020;7;Work;Positive;592
+2020;7;Work;Negative;144
+2020;7;Work;Expired matter;15
+2020;8;Family;Positive;531
+2020;8;Family;Negative;124
+2020;8;Family;Expired matter;9
+2020;8;Other;Positive;37
+2020;8;Other;Negative;22
+2020;8;Other;Expired matter;10
+2020;8;Studies;Positive;438
+2020;8;Studies;Negative;35
+2020;8;Studies;Expired matter;2
+2020;8;Work;Positive;424
+2020;8;Work;Negative;102
+2020;8;Work;Expired matter;19
+2020;9;Family;Positive;701
+2020;9;Family;Negative;127
+2020;9;Family;Expired matter;13
+2020;9;Other;Positive;33
+2020;9;Other;Negative;26
+2020;9;Other;Expired matter;10
+2020;9;Studies;Positive;290
+2020;9;Studies;Negative;35
+2020;9;Studies;Expired matter;3
+2020;9;Work;Positive;549
+2020;9;Work;Negative;162
+2020;9;Work;Expired matter;19
+2020;10;Family;Positive;758
+2020;10;Family;Negative;122
+2020;10;Family;Expired matter;10
+2020;10;Other;Positive;62
+2020;10;Other;Negative;22
+2020;10;Other;Expired matter;11
+2020;10;Studies;Positive;359
+2020;10;Studies;Negative;23
+2020;10;Work;Positive;611
+2020;10;Work;Negative;150
+2020;10;Work;Expired matter;10
+2020;11;Family;Positive;659
+2020;11;Family;Negative;132
+2020;11;Family;Expired matter;24
+2020;11;Other;Positive;40
+2020;11;Other;Negative;18
+2020;11;Other;Expired matter;7
+2020;11;Studies;Positive;411
+2020;11;Studies;Negative;11
+2020;11;Studies;Expired matter;9
+2020;11;Work;Positive;695
+2020;11;Work;Negative;188
+2020;11;Work;Expired matter;14
+2020;12;Family;Positive;605
+2020;12;Family;Negative;103
+2020;12;Family;Expired matter;4
+2020;12;Other;Positive;38
+2020;12;Other;Negative;14
+2020;12;Other;Expired matter;4
+2020;12;Studies;Positive;296
+2020;12;Studies;Negative;32
+2020;12;Studies;Expired matter;7
+2020;12;Work;Positive;502
+2020;12;Work;Negative;161
+2020;12;Work;Expired matter;9
+2021;1;Family;Positive;631
+2021;1;Family;Negative;57
+2021;1;Family;Expired matter;14
+2021;1;Other;Positive;42
+2021;1;Other;Negative;9
+2021;1;Other;Expired matter;4
+2021;1;Studies;Positive;175
+2021;1;Studies;Negative;37
+2021;1;Studies;Expired matter;3
+2021;1;Work;Positive;430
+2021;1;Work;Negative;108
+2021;1;Work;Expired matter;11
+2021;2;Family;Positive;633
+2021;2;Family;Negative;120
+2021;2;Family;Expired matter;8
+2021;2;Other;Positive;18
+2021;2;Other;Negative;5
+2021;2;Other;Expired matter;3
+2021;2;Studies;Positive;120
+2021;2;Studies;Negative;36
+2021;2;Studies;Expired matter;2
+2021;2;Work;Positive;696
+2021;2;Work;Negative;173
+2021;2;Work;Expired matter;8
+2021;3;Family;Positive;850
+2021;3;Family;Negative;84
+2021;3;Family;Expired matter;12
+2021;3;Other;Positive;25
+2021;3;Other;Negative;7
+2021;3;Other;Expired matter;5
+2021;3;Studies;Positive;128
+2021;3;Studies;Negative;17
+2021;3;Studies;Expired matter;3
+2021;3;Work;Positive;1003
+2021;3;Work;Negative;149
+2021;3;Work;Expired matter;12
+2021;4;Family;Positive;708
+2021;4;Family;Negative;127
+2021;4;Family;Expired matter;9
+2021;4;Other;Positive;28
+2021;4;Other;Negative;7
+2021;4;Other;Expired matter;2
+2021;4;Studies;Positive;214
+2021;4;Studies;Negative;52
+2021;4;Studies;Expired matter;1
+2021;4;Work;Positive;1046
+2021;4;Work;Negative;175
+2021;4;Work;Expired matter;7
+2021;5;Family;Positive;789
+2021;5;Family;Negative;84
+2021;5;Family;Expired matter;14
+2021;5;Other;Positive;12
+2021;5;Other;Negative;6
+2021;5;Other;Expired matter;2
+2021;5;Studies;Positive;439
+2021;5;Studies;Negative;34
+2021;5;Studies;Expired matter;4
+2021;5;Work;Positive;717
+2021;5;Work;Negative;176
+2021;5;Work;Expired matter;9
+2021;6;Family;Positive;878
+2021;6;Family;Negative;62
+2021;6;Family;Expired matter;7
+2021;6;Other;Positive;32
+2021;6;Other;Negative;7
+2021;6;Other;Expired matter;6
+2021;6;Studies;Positive;910
+2021;6;Studies;Negative;10
+2021;6;Studies;Expired matter;3
+2021;6;Work;Positive;860
+2021;6;Work;Negative;169
+2021;6;Work;Expired matter;13
+2021;7;Family;Positive;610
+2021;7;Family;Negative;50
+2021;7;Family;Expired matter;10
+2021;7;Other;Positive;15
+2021;7;Other;Negative;1
+2021;7;Other;Expired matter;5
+2021;7;Studies;Positive;1170
+2021;7;Studies;Negative;27
+2021;7;Studies;Expired matter;5
+2021;7;Work;Positive;875
+2021;7;Work;Negative;89
+2021;7;Work;Expired matter;8
+2021;8;Family;Positive;786
+2021;8;Family;Negative;85
+2021;8;Family;Expired matter;8
+2021;8;Other;Positive;40
+2021;8;Other;Negative;3
+2021;8;Other;Expired matter;5
+2021;8;Studies;Positive;714
+2021;8;Studies;Negative;52
+2021;8;Studies;Expired matter;13
+2021;8;Work;Positive;1022
+2021;8;Work;Negative;121
+2021;8;Work;Expired matter;8
+2021;9;Family;Positive;1065
+2021;9;Family;Negative;82
+2021;9;Family;Expired matter;27
+2021;9;Other;Positive;51
+2021;9;Other;Negative;6
+2021;9;Other;Expired matter;9
+2021;9;Studies;Positive;342
+2021;9;Studies;Negative;32
+2021;9;Studies;Expired matter;11
+2021;9;Work;Positive;1031
+2021;9;Work;Negative;170
+2021;9;Work;Expired matter;41
+2021;10;Family;Positive;1079
+2021;10;Family;Negative;140
+2021;10;Family;Expired matter;24
+2021;10;Other;Positive;61
+2021;10;Other;Negative;14
+2021;10;Other;Expired matter;9
+2021;10;Studies;Positive;383
+2021;10;Studies;Negative;40
+2021;10;Studies;Expired matter;5
+2021;10;Work;Positive;1188
+2021;10;Work;Negative;185
+2021;10;Work;Expired matter;19
+2021;11;Family;Positive;964
+2021;11;Family;Negative;137
+2021;11;Family;Expired matter;51
+2021;11;Other;Positive;58
+2021;11;Other;Negative;17
+2021;11;Other;Expired matter;2
+2021;11;Studies;Positive;622
+2021;11;Studies;Negative;28
+2021;11;Studies;Expired matter;17
+2021;11;Work;Positive;1297
+2021;11;Work;Negative;197
+2021;11;Work;Expired matter;79
+2021;12;Family;Positive;828
+2021;12;Family;Negative;118
+2021;12;Family;Expired matter;130
+2021;12;Other;Positive;85
+2021;12;Other;Negative;7
+2021;12;Other;Expired matter;4
+2021;12;Studies;Positive;620
+2021;12;Studies;Negative;29
+2021;12;Studies;Expired matter;25
+2021;12;Work;Positive;1263
+2021;12;Work;Negative;191
+2021;12;Work;Expired matter;229
+2022;1;Family;Positive;877
+2022;1;Family;Negative;79
+2022;1;Family;Expired matter;22
+2022;1;Other;Positive;36
+2022;1;Other;Negative;5
+2022;1;Other;Expired matter;5
+2022;1;Studies;Positive;316
+2022;1;Studies;Negative;24
+2022;1;Studies;Expired matter;16
+2022;1;Work;Positive;1027
+2022;1;Work;Negative;152
+2022;1;Work;Expired matter;90
+2022;2;Family;Positive;1012
+2022;2;Family;Negative;87
+2022;2;Family;Expired matter;54
+2022;2;Other;Positive;28
+2022;2;Other;Negative;3
+2022;2;Other;Expired matter;2
+2022;2;Studies;Positive;198
+2022;2;Studies;Negative;41
+2022;2;Studies;Expired matter;18
+2022;2;Work;Positive;1249
+2022;2;Work;Negative;159
+2022;2;Work;Expired matter;42
+2022;3;Family;Positive;1216
+2022;3;Family;Negative;116
+2022;3;Family;Expired matter;33
+2022;3;Other;Positive;67
+2022;3;Other;Negative;40
+2022;3;Other;Expired matter;5
+2022;3;Studies;Positive;246
+2022;3;Studies;Negative;33
+2022;3;Studies;Expired matter;6
+2022;3;Work;Positive;1663
+2022;3;Work;Negative;191
+2022;3;Work;Expired matter;39
+2022;4;Family;Positive;1069
+2022;4;Family;Negative;80
+2022;4;Family;Expired matter;28
+2022;4;Other;Positive;30
+2022;4;Other;Negative;40
+2022;4;Other;Expired matter;7
+2022;4;Studies;Positive;299
+2022;4;Studies;Negative;52
+2022;4;Studies;Expired matter;20
+2022;4;Work;Positive;1335
+2022;4;Work;Negative;134
+2022;4;Work;Expired matter;27
+2022;5;Family;Positive;1397
+2022;5;Family;Negative;101
+2022;5;Family;Expired matter;21
+2022;5;Other;Positive;71
+2022;5;Other;Negative;9
+2022;5;Other;Expired matter;6
+2022;5;Studies;Positive;713
+2022;5;Studies;Negative;27
+2022;5;Studies;Expired matter;2
+2022;5;Work;Positive;1678
+2022;5;Work;Negative;412
+2022;5;Work;Expired matter;7
+2022;6;Family;Positive;1559
+2022;6;Family;Negative;60
+2022;6;Family;Expired matter;121
+2022;6;Other;Positive;49
+2022;6;Other;Negative;4
+2022;6;Other;Expired matter;5
+2022;6;Studies;Positive;1855
+2022;6;Studies;Negative;10
+2022;6;Studies;Expired matter;67
+2022;6;Work;Positive;1523
+2022;6;Work;Negative;276
+2022;6;Work;Expired matter;154
+2022;7;Family;Positive;1277
+2022;7;Family;Negative;87
+2022;7;Family;Expired matter;264
+2022;7;Other;Positive;25
+2022;7;Other;Negative;13
+2022;7;Other;Expired matter;5
+2022;7;Studies;Positive;1362
+2022;7;Studies;Negative;45
+2022;7;Studies;Expired matter;120
+2022;7;Work;Positive;945
+2022;7;Work;Negative;222
+2022;7;Work;Expired matter;364
+2022;8;Family;Positive;1480
+2022;8;Family;Negative;100
+2022;8;Family;Expired matter;165
+2022;8;Other;Positive;76
+2022;8;Other;Negative;1
+2022;8;Other;Expired matter;11
+2022;8;Studies;Positive;1109
+2022;8;Studies;Negative;28
+2022;8;Studies;Expired matter;99
+2022;8;Work;Positive;1311
+2022;8;Work;Negative;226
+2022;8;Work;Expired matter;189
+2022;9;Family;Positive;1447
+2022;9;Family;Negative;89
+2022;9;Family;Expired matter;26
+2022;9;Other;Positive;55
+2022;9;Other;Negative;25
+2022;9;Other;Expired matter;4
+2022;9;Studies;Positive;587
+2022;9;Studies;Negative;32
+2022;9;Studies;Expired matter;6
+2022;9;Work;Positive;1383
+2022;9;Work;Negative;214
+2022;9;Work;Expired matter;30
+2022;10;Family;Positive;1254
+2022;10;Family;Negative;131
+2022;10;Family;Dismissed;2
+2022;10;Family;Expired matter;18
+2022;10;Other;Positive;56
+2022;10;Other;Negative;28
+2022;10;Other;Expired matter;5
+2022;10;Studies;Positive;375
+2022;10;Studies;Negative;51
+2022;10;Studies;Expired matter;9
+2022;10;Work;Positive;1309
+2022;10;Work;Negative;255
+2022;10;Work;Expired matter;20
+2022;11;Family;Positive;1479
+2022;11;Family;Negative;163
+2022;11;Family;Expired matter;18
+2022;11;Other;Positive;44
+2022;11;Other;Negative;17
+2022;11;Other;Expired matter;4
+2022;11;Studies;Positive;628
+2022;11;Studies;Negative;51
+2022;11;Studies;Expired matter;8
+2022;11;Work;Positive;1522
+2022;11;Work;Negative;325
+2022;11;Work;Expired matter;14
+2022;12;Family;Positive;1390
+2022;12;Family;Negative;143
+2022;12;Family;Expired matter;11
+2022;12;Other;Positive;30
+2022;12;Other;Negative;9
+2022;12;Other;Expired matter;5
+2022;12;Studies;Positive;695
+2022;12;Studies;Negative;46
+2022;12;Studies;Expired matter;5
+2022;12;Work;Positive;1136
+2022;12;Work;Negative;311
+2022;12;Work;Expired matter;13

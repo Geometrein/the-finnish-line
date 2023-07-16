@@ -1,0 +1,10 @@
+name: the-finnish-line
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - jupyter
+  - ca-certificates
+  - openssl
+  - seaborn
+  - scipy
