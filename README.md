@@ -8,7 +8,11 @@
 This repo contains a collection of jupyter notebooks and data extracts used to generate the following articles:
 
 [![Medium Badge](https://img.shields.io/badge/Medium-303030?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@geometrein/the-finnish-line-d5110baae543)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/pulse/finnishline-tigran-khachatryan)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/finnishline-tigran-khachatryan)
+
+The article was also referenced in:
+
+[![Iltalehti](https://img.shields.io/badge/Iltalehti-0077B5?style=for-the-badge&logo=rss&logoColor=white)](iltalehti.fi/talous/a/27ae0cd0-9e0c-4c85-bd57-37baf98889a2)
 
 ## Data Sources
 
